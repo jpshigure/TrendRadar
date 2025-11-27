@@ -91,23 +91,11 @@ weight:
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
-  - id: "toutiao"
-    name: "今日头条"
   - id: "bilibili-hot-search"
     name: "bilibili 热搜"
-  - id: "cls-hot"
-    name: "财联社热门"
-  - id: "ifeng"
-    name: "凤凰网"
-  - id: "tieba"
-    name: "贴吧"
   - id: "cankaoxiaoxi"
     name: "参考消息"
   - id: "sputniknewscn"
     name: "卫星通讯社"
-  - id: "zaobao"
-    name: "MKT新闻"
-  - id: "kaopu"
-    name: "虫部落"
   - id: "ithome"
     name: "IT之家"
